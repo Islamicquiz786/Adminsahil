@@ -1,0 +1,57 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+*.manifest
+*.spec
+
+# === Virtual Environments ===
+env/
+venv/
+ENV/
+.venv/
+
+# === Environment Variables & Secrets ===
+.env
+.env.*
+*.key
+*.pem
+
+# === Logs ===
+*.log
+logs/
+*.out
+*.err
+
+# === Databases ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === OS & Editor Files ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# === Backup Files ===
+*.bak
+*.tmp
+*.old
