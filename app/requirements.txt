@@ -1,0 +1,16 @@
+# Core Requirements
+python-telegram-bot==13.7
+Flask==2.0.1
+requests==2.26.0
+
+# Development Requirements
+python-dotenv==0.19.0
+pyngrok==5.1.0
+
+# Security Requirements
+cryptography==36.0.1
+pyOpenSSL==21.0.0
+
+# Additional Utilities
+prettytable==3.0.0
+termcolor==1.1.0
